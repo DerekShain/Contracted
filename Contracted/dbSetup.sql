@@ -22,3 +22,5 @@ id int NOT NULL PRIMARY KEY AUTO_INCREMENT,
 contractorId int NOT NULL,
 companyId int NOT NULL
 ) default charset utf8 COMMENT '';
+
+SELECT * FROM accounts;
